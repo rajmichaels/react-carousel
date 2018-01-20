@@ -1,0 +1,12 @@
+# output
+lib/
+dist/
+coverage/
+
+# dependencies
+/node_modules
+/bower_components
+
+# misc
+npm-debug.log
+.DS_Store
